@@ -1,0 +1,317 @@
+.Simpler-box-shadow {
+	display:none;
+}
+
+.Simpler-site-share .Simpler-site-share-container {
+	width: 96%;
+	float: none;
+	margin: 0 auto;
+}
+
+.Simpler-box-devices {
+	position:relative;
+	width: 80%;
+	margin: 0 auto 10px;
+	max-width: 300px;
+}
+
+.Simpler-box-wrapper {
+	width: 300px;
+	margin-top: 10px;
+	min-width: 100%;
+}
+
+.Simpler-sign-up-container-inner {
+	float: none;
+	margin: 0 auto;
+	width: 290px;
+}
+
+.Simpler-site-share-email {
+	width: 100%;
+	float: none;
+	margin: 18px auto 0;
+}
+
+.Simpler-sign-up {
+	text-align:center;
+}
+
+.Simpler-site-title {
+	text-align:center;
+}
+
+.Simpler-site-incentive {
+	text-align:center;
+}
+
+.Simpler-site-tagline {
+	text-align:center;
+	font-size: 28px;
+}
+
+.Simpler-site-description {
+	text-align:center;
+	width: 94%;
+	float: none;
+	margin: 0 auto 10px;
+}
+
+.Simpler-sign-up-container {
+	width: 94%;
+	float: none;
+	margin: 0 auto;
+}
+
+.Simpler-share-label {
+	width:100%;
+	text-align:center;
+	float: none;
+}
+
+.Simpler-share-link	{
+	width:100%;
+	text-align:center;
+}
+
+.Simpler-site-social-share ul li {
+	float:left;
+}
+
+.Simpler-share-email-inner {
+	float: none;
+	margin: 0 auto;
+}
+
+.Simpler-sign-up-input input[type="text"] {
+	width: 74%;
+}
+
+.Simpler-extra-fields input[type="text"].Simpler-sign-up-input.company,.Simpler-extra-fields input[type="email"].Simpler-sign-up-input {
+	width: 254px;
+}
+
+.Simpler-extra-fields input[type="text"].Simpler-sign-up-input.half,.Simpler-extra-fields input[type="tel"].Simpler-sign-up-input.half {
+	width: 110px;
+}
+
+.Simpler-site-share-email input[type="text"], .Simpler-site-share-email input[type="email"], .Simpler-site-share-email textarea, input.Simpler-share-link {
+	width: 269px;
+	max-width: 269;
+}
+
+input.Simpler-share-email-emails[type="email"] {
+	width: 222px;
+	max-width: 222px;
+}
+
+.Simpler-site-share-email .Simpler-share-email-emails {
+	max-width: 215px;
+}
+
+input.Simpler-share-link {
+	width: 60%;
+}
+
+.Simpler-extra-fields .Simpler-sign-up-submit {
+	width: 280px;
+}
+
+.Simpler-pwd-lr {
+	position: relative;
+	background:transparent;
+	clear: both;
+	width: 300px;
+	padding: 0;
+	margin: 0 auto 10px;
+}
+
+.Simpler-pwd-lr a {
+	display: block;
+	float: right;
+	-webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.Simpler-content .Simpler-connect-icon {
+	margin-left:4%;
+	float: left;
+}
+
+.Simpler-content .Simpler-connect-share-links:first-child .Simpler-connect-icon {
+	margin-left:0;
+}
+
+.Simpler-site-logo {
+	text-align:center;
+}
+
+.Simpler-site-logo img {
+	max-width:100%;
+}
+
+.Simpler-sign-up-label {
+	font-size: 12px;
+	float: none;
+	display: block;
+}
+
+.Simpler-deviceOne-wrapper {
+	height: 265px;
+	width: 130px;
+	z-index: 2;
+	position: relative;
+}
+
+.Simpler-deviceOne {
+	background: transparent url("img/iPhone-PhoneView-Larger-72dpi.png") no-repeat center -8px;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	z-index: 2;
+}
+
+.Simpler-deviceOneImg {
+	position:absolute;
+	top: 37px;
+	left: 15px;
+	z-index: 1;
+	height: 182px;
+	overflow: hidden;
+	width: 102px;
+}
+
+.Simpler-deviceOneImg img {
+	width: 101px;
+	height: 182px;
+}
+
+.Simpler-deviceTwo-wrapper {
+	height: 255px;
+	width: 125px;
+	position: absolute;
+	right: 0;
+	top: 9px;
+	z-index: 1;
+}
+
+.Simpler-deviceTwo {
+	background: transparent url("img/iPhone-PhoneView-Larger-72dpi.png") no-repeat center -26px;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	z-index: 2;
+}
+
+.Simpler-deviceTwoImg {
+	position:absolute;
+	z-index: 1;
+	top: 37px;
+	left: 15px;
+	height: 182px;
+	width: 102px;
+	overflow: hidden;
+}
+
+.Simpler-deviceTwoImg img {
+	height: 101px;
+	width: 182px;
+}
+
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceOne-wrapper,.Simpler-box-devices.Simpler-android .Simpler-deviceOne-wrapper {
+	height: 255px;
+	width: 125px;
+	position: absolute;
+	right: 0;
+	top: 4px;
+	z-index: 1;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceOne,.Simpler-box-devices.Simpler-android .Simpler-deviceOne {
+	background: transparent url("img/iPhone-PhoneView-Smaller-72dpi.png") no-repeat center -17px;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceOneImg,.Simpler-box-devices.Simpler-android .Simpler-deviceOneImg  {
+	position:absolute;
+	z-index: 1;
+	top: 41px;
+	left: 15px;
+	height: 170px;
+	width: 96px;
+	overflow: hidden;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceOneImg img,.Simpler-box-devices.Simpler-android .Simpler-deviceOneImg img{
+	height: 170px;
+	width: 96px;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceTwo-wrapper,.Simpler-box-devices.Simpler-android .Simpler-deviceTwo-wrapper {
+	height: 280px;
+	width: 130px;
+	z-index: 2;
+	position: relative;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceTwo,.Simpler-box-devices.Simpler-android .Simpler-deviceTwo {
+	background: transparent url("img/Android-PhoneView-Larger-72dpi.png") no-repeat center -6px;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceTwoImg,.Simpler-box-devices.Simpler-android .Simpler-deviceTwoImg {
+	position:absolute;
+	top: 33px;
+	left: 11px;
+	z-index: 1;
+	height: 182px;
+	overflow: hidden;
+	width: 111px;
+}
+
+.Simpler-box-devices.Simpler-androidFront .Simpler-deviceTwoImg img,.Simpler-box-devices.Simpler-android .Simpler-deviceTwoImg img {
+	height: 182px;
+	width: 111px;
+}
+
+.Simpler-sharing-page .Simpler-site-connect {
+	width: 267px;
+	margin: 0 auto;
+	float: none;
+}
+
+.Simpler-sign-up-container.Simpler-extra-fields {
+	margin: 0 auto 20px;
+}
+
+input[type="submit"].Simpler-share-email-send {
+	width: 295px;
+}
+
+.Simpler-box-devices.Simpler-iphone .Simpler-deviceTwo-wrapper,.Simpler-box-devices.Simpler-iphone .Simpler-deviceOne-wrapper,.Simpler-box-devices.Simpler-android .Simpler-deviceOne-wrapper,.Simpler-box-devices.Simpler-android .Simpler-deviceTwo-wrapper{
+	margin:0 auto;
+}
+
+.Simpler-box-left {
+	margin:0 auto;
+}
+
+.Simpler-box-container {
+	width:320px;
+}
+
+.Simpler-stats-clicks, .Simpler-stats-signups {
+	font-size:20px;
+}
+
+.Simpler-live-stats-data {
+	margin-right:18%;
+}
+
+.Simpler-live-stats-data.signups {
+	margin-right:2%;
+}
+
+.Simpler-lxWrapper {
+	display:none !important;
+}
