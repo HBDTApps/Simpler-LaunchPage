@@ -1,13 +1,13 @@
 body {
 	margin:0;
 	padding:0;
-	background-color:#FFFEF4;
+	background-color:#ECF3FF;
 }
 
 .Simpler-announcement a, .Simpler-announcement a:hover, .Simpler-announcement a:visited, .Simpler-announcement a:active
 {
 	text-decoration:none;
-	color:#C09853;
+	color:#6EA3FF;
 	font-weight:bold;
 	background-image:none;
 } 
@@ -190,6 +190,7 @@ p {
 .Simpler-site-logo {
 	padding:0 0 0;
 	text-align: right;
+	height: 200px;
 }
 
 .Simpler-site-logo img{
